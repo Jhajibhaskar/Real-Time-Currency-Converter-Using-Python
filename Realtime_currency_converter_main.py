@@ -1,3 +1,4 @@
+#First run 'pip install forex_python' in terminal of pycharm then execute the below program
 from forex_python.converter import CurrencyRates
 c = CurrencyRates()
 from_currency = input("From Currency Code: ").upper()
